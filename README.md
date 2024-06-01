@@ -4,3 +4,6 @@ This project aims to predict diabetes progression using linear regression on mul
 References:
 
 The scikit-learn library documentation: https://scikit-learn.org/stable/datasets/toy_dataset.html#diabetes-dataset
+
+# Author
+Loveleen Kaur
